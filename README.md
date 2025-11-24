@@ -24,11 +24,13 @@ To design and implement a digital clock circuit using an oscillator as the time-
 
 # OBSERVATION 
 
-![WhatsApp Image 2025-11-21 at 20 38 05_a3c6ee75](https://github.com/user-attachments/assets/9c8dbb7e-a829-4a11-ace4-29e5c2561004)
+![WhatsApp Image 2025-11-24 at 10 50 17_8d8c81d7](https://github.com/user-attachments/assets/ad38c144-6f08-4ba6-92b7-d90f22d7617e)
+
 
 
 # RESULT
 
-![RESULT](https://github.com/user-attachments/assets/e0766eed-8ec8-49d0-bccb-955f6f2249ed)
+![WhatsApp Image 2025-11-24 at 10 50 45_74feabfe](https://github.com/user-attachments/assets/e65c4431-54f8-41c7-ac72-fff7d664e518)
+
 
 
