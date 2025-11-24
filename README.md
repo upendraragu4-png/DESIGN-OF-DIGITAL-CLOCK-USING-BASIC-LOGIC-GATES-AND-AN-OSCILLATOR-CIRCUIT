@@ -6,20 +6,22 @@ To design and implement a digital clock circuit using an oscillator as the time-
 
 # COMPONENT REQUIRED
 
-![COMPONENT](https://github.com/user-attachments/assets/56833273-c854-4ad4-a3ab-18f6deec50d5)
+![WhatsApp Image 2025-11-24 at 10 49 10_287ce609](https://github.com/user-attachments/assets/f857f2dc-b7fb-47a6-8cb9-5ad9ec4dbaa4)
+
 
 # THEORY 
 
-![COMPONENT](https://github.com/user-attachments/assets/89705e02-8f46-4761-9a24-627521f72bc2)
-![THEORY 2](https://github.com/user-attachments/assets/e385a3b5-42a1-425c-94dd-2b14e974fab5)
+![WhatsApp Image 2025-11-24 at 10 49 29_c0085545](https://github.com/user-attachments/assets/bac436ad-62e9-4f84-ab30-68f7e319b166)
 
 
 # PROCEDURE 
-![PRIOCEDURE](https://github.com/user-attachments/assets/8bc44153-6160-42c7-80ff-0e38383f34e0)
+
+![WhatsApp Image 2025-11-24 at 10 49 55_5181fcce](https://github.com/user-attachments/assets/8eeb29fb-acdc-4865-83e9-0a90a9a4e0cc)
+
 
 # BLOCK DIAGRAM
+![WhatsApp Image 2025-11-24 at 10 48 26_992fa19e](https://github.com/user-attachments/assets/94409003-5083-471f-997d-9b724a2037fc)
 
-![WhatsApp Image 2025-11-21 at 20 38 04_55a52288](https://github.com/user-attachments/assets/e683e72f-c552-455b-908d-96ce6a130c6a)
 
 
 # OBSERVATION 
